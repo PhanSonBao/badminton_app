@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:badminton_app/route/route_constants.dart';
+import 'package:shop/route/route_constants.dart';
 
 import '/components/Banner/M/banner_m_with_counter.dart';
 import '../../../../components/product/product_card.dart';

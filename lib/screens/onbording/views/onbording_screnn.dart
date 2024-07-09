@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:badminton_app/components/dot_indicators.dart';
-import 'package:badminton_app/constants.dart';
-import 'package:badminton_app/route/route_constants.dart';
+import 'package:shop/components/dot_indicators.dart';
+import 'package:shop/constants.dart';
+import 'package:shop/route/route_constants.dart';
 
 import 'components/onbording_content.dart';
 
@@ -27,7 +27,7 @@ class _OnBordingScreenState extends State<OnBordingScreen> {
     Onbord(
       image: "assets/Illustration/Illustration-1.png",
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_1.png",
-      title: "Get those badminton_appping \nbags filled",
+      title: "Get those shopping \nbags filled",
       description:
           "Add any item you want to your cart, or save it on your wishlist, so you don’t miss it in your future purchases.",
     ),
@@ -42,14 +42,14 @@ class _OnBordingScreenState extends State<OnBordingScreen> {
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_3.png",
       title: "Package tracking",
       description:
-          "In particular, badminton_applon can pack your orders, and help you seamlessly manage your shipments.",
+          "In particular, shoplon can pack your orders, and help you seamlessly manage your shipments.",
     ),
     Onbord(
       image: "assets/Illustration/Illustration-4.png",
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_4.png",
       title: "Nearby stores",
       description:
-          "Easily track nearby badminton_apps, browse through their items and get information about their prodcuts.",
+          "Easily track nearby shops, browse through their items and get information about their prodcuts.",
     ),
   ];
 

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:badminton_app/models/cart.dart';
+import 'package:shop/models/cart.dart';
 
-import 'package:badminton_app/constants.dart';
-import 'package:badminton_app/size_config.dart';
+import 'package:shop/constants.dart';
+import 'package:shop/size_config.dart';
 
 
 class CartItemCard extends StatelessWidget {

@@ -1,8 +1,8 @@
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:badminton_app/constants.dart';
-import 'package:badminton_app/route/screen_export.dart';
+import 'package:shop/constants.dart';
+import 'package:shop/route/screen_export.dart';
 
 class EntryPoint extends StatefulWidget {
   const EntryPoint({super.key});
@@ -46,7 +46,7 @@ class _EntryPointState extends State<EntryPoint> {
         leadingWidth: 0,
         centerTitle: false,
         title: SvgPicture.asset(
-          "assets/logo/badminton_applon.svg",
+          "assets/logo/shoplon.svg",
           colorFilter: ColorFilter.mode(
               Theme.of(context).iconTheme.color!, BlendMode.srcIn),
           height: 20,
@@ -115,9 +115,9 @@ class _EntryPointState extends State<EntryPoint> {
           unselectedItemColor: Colors.transparent,
           items: [
             BottomNavigationBarItem(
-              icon: svgIcon("assets/icons/badminton_app.svg"),
-              activeIcon: svgIcon("assets/icons/badminton_app.svg", color: primaryColor),
-              label: "badminton_app",
+              icon: svgIcon("assets/icons/shop.svg"),
+              activeIcon: svgIcon("assets/icons/shop.svg", color: primaryColor),
+              label: "shop",
             ),
             BottomNavigationBarItem(
               icon: svgIcon("assets/icons/Category.svg"),

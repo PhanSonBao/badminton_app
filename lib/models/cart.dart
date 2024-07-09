@@ -1,4 +1,4 @@
-import 'package:badminton_app/models/product_model.dart';
+import 'package:shop/models/product_model.dart';
 
 class Cart {
   final ProductModel product;

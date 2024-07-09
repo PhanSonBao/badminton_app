@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:badminton_app/components/buy_full_ui_kit.dart';
+import 'package:shop/components/buy_full_ui_kit.dart';
 
 class NotificationOptionsScreen extends StatelessWidget {
   const NotificationOptionsScreen({super.key});

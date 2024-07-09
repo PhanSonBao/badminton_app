@@ -40,7 +40,7 @@ class BannerMStyle1 extends StatelessWidget {
               ),
               const Spacer(),
               const Text(
-                "badminton_app now",
+                "shop now",
                 style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.w600,

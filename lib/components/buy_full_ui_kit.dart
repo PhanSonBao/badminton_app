@@ -106,7 +106,7 @@ class _BuyFullKitState extends State<BuyFullKit> {
                       ),
                       const SizedBox(height: defaultPadding),
                       const Text(
-                        "Thank you for using The Flutter Way badminton_app template. You're currently using the free version. Please get the full kit to use this screen.",
+                        "Thank you for using The Flutter Way shop template. You're currently using the free version. Please get the full kit to use this screen.",
                       ),
                       const SizedBox(height: defaultPadding),
                       Row(

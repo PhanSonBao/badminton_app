@@ -1,5 +1,5 @@
 // For demo only
-import 'package:badminton_app/constants.dart';
+import 'package:shop/constants.dart';
 
 class ProductModel {
   final String image, brandName, title;
