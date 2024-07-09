@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>badminton_app</string>
+=======
+	<string>Badminton App</string>
+>>>>>>> origin/dev
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -45,11 +49,14 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+<<<<<<< HEAD
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 	<string>http</string>
 	<string>https</string>
 	</array>
 
+=======
+>>>>>>> origin/dev
 </dict>
 </plist>

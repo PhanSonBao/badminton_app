@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import UIKit
 import Flutter
+=======
+import Flutter
+import UIKit
+>>>>>>> origin/dev
 
 @UIApplicationMain
 @objc class AppDelegate: FlutterAppDelegate {

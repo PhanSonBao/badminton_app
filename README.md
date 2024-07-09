@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter E-Commerce App Template
 
 <p align="center">
@@ -212,3 +213,21 @@ Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https
     <img src="readme image/buy_now_btn.png" alt="Full template" style="margin-right: 32px; width: 170px; height: 50px;">
   </a>
 </p>
+=======
+# badminton_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> origin/dev
