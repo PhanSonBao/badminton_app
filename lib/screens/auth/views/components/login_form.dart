@@ -18,7 +18,7 @@ class LogInForm extends StatelessWidget {
       child: Column(
         children: [
           TextFormField(
-            onSaved: (emal) {
+            onSaved: (email) {
               // Email
             },
             validator: emaildValidator.call,

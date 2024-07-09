@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:shop/components/product/secondary_product_card.dart';
+import 'package:badminton_app/components/product/secondary_product_card.dart';
 
 import '../../../../constants.dart';
 

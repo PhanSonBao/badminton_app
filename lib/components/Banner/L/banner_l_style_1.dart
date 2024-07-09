@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:shop/components/Banner/L/banner_l.dart';
+import 'package:badminton_app/components/Banner/L/banner_l.dart';
 
 import '../../../constants.dart';
 
@@ -104,7 +104,7 @@ class BannerLStyle1 extends StatelessWidget {
               ),
               const Spacer(),
               const Text(
-                "Shop now  >",
+                "badminton_app now  >",
                 style: TextStyle(
                   fontFamily: grandisExtendedFont,
                   fontSize: 12,

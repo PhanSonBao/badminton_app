@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shop/constants.dart';
-import 'package:shop/route/screen_export.dart';
+import 'package:badminton_app/constants.dart';
+import 'package:badminton_app/route/screen_export.dart';
 
 class AddedToCartMessageScreen extends StatelessWidget {
   const AddedToCartMessageScreen({super.key});
@@ -38,7 +38,7 @@ class AddedToCartMessageScreen extends StatelessWidget {
                 onPressed: () {
                   Navigator.pushNamed(context, entryPointScreenRoute);
                 },
-                child: const Text("Continue shopping"),
+                child: const Text("Continue badminton_appping"),
               ),
               const SizedBox(height: defaultPadding),
               ElevatedButton(
